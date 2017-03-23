@@ -17,5 +17,4 @@ Backend : Cassandra DB
 
 Other Technologies: KongAPI
  
-Cassandra working
-
+Cassandra working.
