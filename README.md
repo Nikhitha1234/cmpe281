@@ -11,10 +11,10 @@ Backend : Cassandra DB
 Other Technologies: KongAPI <br />
 
 
-
 Frontend Framework: React.js
+
 Backend : Cassandra DB
 
 Other Technologies: KongAPI
  
-Cassandra working.
+Cassandra working
